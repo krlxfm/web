@@ -13,8 +13,8 @@ export default function Header() {
       </div>
       <div className="col-span-4 md:col-span-3">
         <div className="border-2 border-black p-2 overflow-hidden vertical-align">
-        <audio src="http://stream.krlx.org:8000/_a" controls/>
-        Click above to play the radio. If the player is not working <Link as={`http://stream.krlx.org:8000/_a `} href="http://stream.krlx.org:8000/_a ">
+        <audio src="https://stream.krlx.org:8000/_a" controls/>
+        Click above to play the radio. If the player is not working <Link as={`https://stream.krlx.org:8000/_a `} href="https://stream.krlx.org:8000/_a ">
           <a
             className="underline hover:no-underline"
           >click here</a>

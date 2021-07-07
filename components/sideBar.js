@@ -25,7 +25,7 @@ data = data.data
         >Schedule</a>
       </Link>
       </div>
-      <div><Link as={`http://spinitron.com/krlx`} href="http://spinitron.com/krlx">
+      <div><Link as={`https://spinitron.com/krlx`} href="https://spinitron.com/krlx">
         <a
           className="text-2xl pt-4 underline hover:no-underline"
         >Recent Songs</a>

@@ -9,7 +9,7 @@ export default function About({data,sidePage}) {
     <Container>
     <Head>
     <title>
-    About - KRLX 88.1 FM
+    About - KRLX 88.1 FAM
     </title>
     </Head>
     <div className="grid grid-cols-4 gap-4">

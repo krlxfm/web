@@ -3,7 +3,7 @@ This is our new website. It is in [Next.js](https://nextjs.org/), a React framew
 
 It generates nightly static builds from our Wordpress CMS and Spinitron. It uses wordpress graphql and the [Spinitron API](https://spinitron.github.io/v2api/).
 
-Currently it is hosted on vercel.com
+Currently it is hosted on DreamHost.
 
 
 
